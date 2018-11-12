@@ -1,0 +1,2 @@
+# MkBotInputJson
+NIKEサイトから商品情報をスクレイピングして、入力tmp.txtと組み合わせてBOTの入力JSONファイルを作成する。
